@@ -45,7 +45,6 @@ This project is an implementation of an Online Voting System using the basic con
 ### Full Chain
 
 - The "Full Chain" API allows users to view the complete blockchain along with its length.
-- Access the "Full Chain" API through the web interface or use the URL `http://localhost:5500/chain/` in your browser or a REST client.
 
 ### Voting Process
 
@@ -54,3 +53,15 @@ This project is an implementation of an Online Voting System using the basic con
 3. Voters can view the current state of the blockchain by clicking on the "See Chain" button.
 4. Voters can cast their votes by selecting their voter ID and choosing the party/candidate they wish to vote for.
 5. After voting, the voter will be redirected to the "Repeat" page for verification.
+
+### Results 
+
+![image](https://github.com/Shreyg-27/Online-Voting-System/assets/98229024/5ff829d8-dcec-4b9c-a214-0c11e9eea7db)
+
+![image](https://github.com/Shreyg-27/Online-Voting-System/assets/98229024/a6d8438c-bd3e-41ca-9389-e1642bd97505)
+
+![image](https://github.com/Shreyg-27/Online-Voting-System/assets/98229024/bc35c9da-f217-4ad4-b12d-5ee618412518)
+
+![image](https://github.com/Shreyg-27/Online-Voting-System/assets/98229024/d3d4c224-7b5d-46db-b7b4-abd2d2b4ee38)
+
+![image](https://github.com/Shreyg-27/Online-Voting-System/assets/98229024/e76f0374-86c9-4dcb-9166-590e03cc7840)
